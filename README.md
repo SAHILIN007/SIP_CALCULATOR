@@ -75,4 +75,5 @@ You’ll receive a .xlsx file with all monthly data for your investment.
 
 ![image](https://github.com/user-attachments/assets/7964d2d8-f2a2-4777-b4f9-5938f41f4107)
 
+![image](https://github.com/user-attachments/assets/8324e32c-9d17-4a45-8c14-0f5404ae96e3)
 
